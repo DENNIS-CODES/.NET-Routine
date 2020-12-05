@@ -1,3 +1,5 @@
+//Maximumfinder.cs
+// Method Maximum With three parameters
 using System;
 
 class MainClass {
