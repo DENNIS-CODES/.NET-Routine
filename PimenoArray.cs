@@ -1,3 +1,4 @@
+//a program that takes 10 values from the user in an array and then shows the number of prime values in the array.
 using System;
 using System.collections.Generic;
 using System.Linq;
