@@ -17,7 +17,7 @@ namespace lower
             stringArray.SetValue("Apple", 2);
             stringArray.SetValue("Grape", 3);
             stringArray.SetValue("Cherry", 4);
-            stringArray.SetValue("WaterMelon", 4);
+            stringArray.SetValue("WaterMelon", 5);
             Console.WriteLine("The Lower Bound of the Array : {0}",
                               stringArray.GetLowerBound(0).ToString());
             Console.WriteLine("The Upper Bound of the Array : {0}",
