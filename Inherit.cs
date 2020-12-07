@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 namespace Inherit
 {
-    class inheri : vehicle
+    class inherit : vehicle
     {
         public void Noise()
         {
