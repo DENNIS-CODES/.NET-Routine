@@ -12,6 +12,7 @@ namespace lower
         static void Main(string[] args)
         {
             Array stringArray = Array.CreateInstance(typeof(String), 6);
+            //using setvalue() function create an object for string Array
             stringArray.SetValue("Mango", 0);
             stringArray.SetValue("Orange", 1);
             stringArray.SetValue("Apple", 2);
