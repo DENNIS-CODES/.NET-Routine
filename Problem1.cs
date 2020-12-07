@@ -13,17 +13,13 @@ using System.Threading.Tasks;
 
  
 
-namespace Problem1
-
+namespace Problem1 
 {
 
-classProblem1
+class Problem1
+{
 
-    {
-
-staticvoid Main(string[] args)
-
-        {
+static void Main(string[] args) {
 
 Console.WriteLine("\t\tName: Ehtesham Mehmood\n\t\tRoll No: 11014119-131\n\t\tSection: AE\n \t\t        UOG\n");
 
